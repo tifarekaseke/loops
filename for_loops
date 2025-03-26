@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for flower in rose daisy dandelion sunflower
+do 
+echo "my favourite flower is $flower"
+done
